@@ -1,0 +1,165 @@
+<svg width="800" height="1100" xmlns="http://www.w3.org/2000/svg">
+<rect width="100%" height="100%" fill="white"/>
+
+<!-- Başlık ve bilgi alanları -->
+<text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold">OPTİK CEVAP FORMU</text>
+
+<!-- Öğrenci Bilgileri -->
+<text x="100" y="70" text-anchor="start" font-family="Arial, sans-serif" font-size="14">Ad Soyad:</text>
+<text x="180" y="70" text-anchor="start" font-family="Arial, sans-serif" font-size="14" font-weight="bold">ALPER ŞENSOY</text>
+<text x="400" y="70" text-anchor="start" font-family="Arial, sans-serif" font-size="14">Sınıf/Şube:</text>
+<text x="480" y="70" text-anchor="start" font-family="Arial, sans-serif" font-size="14" font-weight="bold">5A</text>
+<text x="600" y="70" text-anchor="start" font-family="Arial, sans-serif" font-size="14">Okul No:</text>
+<text x="660" y="70" text-anchor="start" font-family="Arial, sans-serif" font-size="14" font-weight="bold">30</text>
+
+<!-- Seçenek başlıkları -->
+<text x="120" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">Soru</text>
+<text x="170" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">a</text>
+<text x="200" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">b</text>
+<text x="230" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">c</text>
+<text x="260" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">d</text>
+<text x="290" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">e</text>
+
+<text x="450" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">Soru</text>
+<text x="500" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">a</text>
+<text x="530" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">b</text>
+<text x="560" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">c</text>
+<text x="590" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">d</text>
+<text x="620" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">e</text>
+
+<!-- Soru numaraları ve baloncuklar - İlk sütun (1-10) -->
+<text x="120" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">1</text>
+<circle cx="170" cy="115" r="8" fill="none" stroke="black"/>
+<circle cx="200" cy="115" r="8" fill="none" stroke="black"/>
+<circle cx="230" cy="115" r="8" fill="none" stroke="black"/>
+<circle cx="260" cy="115" r="8" fill="none" stroke="black"/>
+<circle cx="290" cy="115" r="8" fill="none" stroke="black"/>
+<text x="120" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">2</text>
+<circle cx="170" cy="145" r="8" fill="none" stroke="black"/>
+<circle cx="200" cy="145" r="8" fill="none" stroke="black"/>
+<circle cx="230" cy="145" r="8" fill="none" stroke="black"/>
+<circle cx="260" cy="145" r="8" fill="none" stroke="black"/>
+<circle cx="290" cy="145" r="8" fill="none" stroke="black"/>
+<text x="120" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">3</text>
+<circle cx="170" cy="175" r="8" fill="none" stroke="black"/>
+<circle cx="200" cy="175" r="8" fill="none" stroke="black"/>
+<circle cx="230" cy="175" r="8" fill="none" stroke="black"/>
+<circle cx="260" cy="175" r="8" fill="none" stroke="black"/>
+<circle cx="290" cy="175" r="8" fill="none" stroke="black"/>
+<text x="120" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">4</text>
+<circle cx="170" cy="205" r="8" fill="none" stroke="black"/>
+<circle cx="200" cy="205" r="8" fill="none" stroke="black"/>
+<circle cx="230" cy="205" r="8" fill="none" stroke="black"/>
+<circle cx="260" cy="205" r="8" fill="none" stroke="black"/>
+<circle cx="290" cy="205" r="8" fill="none" stroke="black"/>
+<text x="120" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">5</text>
+<circle cx="170" cy="235" r="8" fill="none" stroke="black"/>
+<circle cx="200" cy="235" r="8" fill="none" stroke="black"/>
+<circle cx="230" cy="235" r="8" fill="none" stroke="black"/>
+<circle cx="260" cy="235" r="8" fill="none" stroke="black"/>
+<circle cx="290" cy="235" r="8" fill="none" stroke="black"/>
+<text x="120" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">6</text>
+<circle cx="170" cy="265" r="8" fill="none" stroke="black"/>
+<circle cx="200" cy="265" r="8" fill="none" stroke="black"/>
+<circle cx="230" cy="265" r="8" fill="none" stroke="black"/>
+<circle cx="260" cy="265" r="8" fill="none" stroke="black"/>
+<circle cx="290" cy="265" r="8" fill="none" stroke="black"/>
+<text x="120" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">7</text>
+<circle cx="170" cy="295" r="8" fill="none" stroke="black"/>
+<circle cx="200" cy="295" r="8" fill="none" stroke="black"/>
+<circle cx="230" cy="295" r="8" fill="none" stroke="black"/>
+<circle cx="260" cy="295" r="8" fill="none" stroke="black"/>
+<circle cx="290" cy="295" r="8" fill="none" stroke="black"/>
+<text x="120" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">8</text>
+<circle cx="170" cy="325" r="8" fill="none" stroke="black"/>
+<circle cx="200" cy="325" r="8" fill="none" stroke="black"/>
+<circle cx="230" cy="325" r="8" fill="none" stroke="black"/>
+<circle cx="260" cy="325" r="8" fill="none" stroke="black"/>
+<circle cx="290" cy="325" r="8" fill="none" stroke="black"/>
+<text x="120" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">9</text>
+<circle cx="170" cy="355" r="8" fill="none" stroke="black"/>
+<circle cx="200" cy="355" r="8" fill="none" stroke="black"/>
+<circle cx="230" cy="355" r="8" fill="none" stroke="black"/>
+<circle cx="260" cy="355" r="8" fill="none" stroke="black"/>
+<circle cx="290" cy="355" r="8" fill="none" stroke="black"/>
+<text x="120" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">10</text>
+<circle cx="170" cy="385" r="8" fill="none" stroke="black"/>
+<circle cx="200" cy="385" r="8" fill="none" stroke="black"/>
+<circle cx="230" cy="385" r="8" fill="none" stroke="black"/>
+<circle cx="260" cy="385" r="8" fill="none" stroke="black"/>
+<circle cx="290" cy="385" r="8" fill="none" stroke="black"/>
+<text x="450" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">11</text>
+<circle cx="500" cy="115" r="8" fill="none" stroke="black"/>
+<circle cx="530" cy="115" r="8" fill="none" stroke="black"/>
+<circle cx="560" cy="115" r="8" fill="none" stroke="black"/>
+<circle cx="590" cy="115" r="8" fill="none" stroke="black"/>
+<circle cx="620" cy="115" r="8" fill="none" stroke="black"/>
+<text x="450" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">12</text>
+<circle cx="500" cy="145" r="8" fill="none" stroke="black"/>
+<circle cx="530" cy="145" r="8" fill="none" stroke="black"/>
+<circle cx="560" cy="145" r="8" fill="none" stroke="black"/>
+<circle cx="590" cy="145" r="8" fill="none" stroke="black"/>
+<circle cx="620" cy="145" r="8" fill="none" stroke="black"/>
+<text x="450" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">13</text>
+<circle cx="500" cy="175" r="8" fill="none" stroke="black"/>
+<circle cx="530" cy="175" r="8" fill="none" stroke="black"/>
+<circle cx="560" cy="175" r="8" fill="none" stroke="black"/>
+<circle cx="590" cy="175" r="8" fill="none" stroke="black"/>
+<circle cx="620" cy="175" r="8" fill="none" stroke="black"/>
+<text x="450" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">14</text>
+<circle cx="500" cy="205" r="8" fill="none" stroke="black"/>
+<circle cx="530" cy="205" r="8" fill="none" stroke="black"/>
+<circle cx="560" cy="205" r="8" fill="none" stroke="black"/>
+<circle cx="590" cy="205" r="8" fill="none" stroke="black"/>
+<circle cx="620" cy="205" r="8" fill="none" stroke="black"/>
+<text x="450" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">15</text>
+<circle cx="500" cy="235" r="8" fill="none" stroke="black"/>
+<circle cx="530" cy="235" r="8" fill="none" stroke="black"/>
+<circle cx="560" cy="235" r="8" fill="none" stroke="black"/>
+<circle cx="590" cy="235" r="8" fill="none" stroke="black"/>
+<circle cx="620" cy="235" r="8" fill="none" stroke="black"/>
+<text x="450" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">16</text>
+<circle cx="500" cy="265" r="8" fill="none" stroke="black"/>
+<circle cx="530" cy="265" r="8" fill="none" stroke="black"/>
+<circle cx="560" cy="265" r="8" fill="none" stroke="black"/>
+<circle cx="590" cy="265" r="8" fill="none" stroke="black"/>
+<circle cx="620" cy="265" r="8" fill="none" stroke="black"/>
+<text x="450" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">17</text>
+<circle cx="500" cy="295" r="8" fill="none" stroke="black"/>
+<circle cx="530" cy="295" r="8" fill="none" stroke="black"/>
+<circle cx="560" cy="295" r="8" fill="none" stroke="black"/>
+<circle cx="590" cy="295" r="8" fill="none" stroke="black"/>
+<circle cx="620" cy="295" r="8" fill="none" stroke="black"/>
+<text x="450" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">18</text>
+<circle cx="500" cy="325" r="8" fill="none" stroke="black"/>
+<circle cx="530" cy="325" r="8" fill="none" stroke="black"/>
+<circle cx="560" cy="325" r="8" fill="none" stroke="black"/>
+<circle cx="590" cy="325" r="8" fill="none" stroke="black"/>
+<circle cx="620" cy="325" r="8" fill="none" stroke="black"/>
+<text x="450" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">19</text>
+<circle cx="500" cy="355" r="8" fill="none" stroke="black"/>
+<circle cx="530" cy="355" r="8" fill="none" stroke="black"/>
+<circle cx="560" cy="355" r="8" fill="none" stroke="black"/>
+<circle cx="590" cy="355" r="8" fill="none" stroke="black"/>
+<circle cx="620" cy="355" r="8" fill="none" stroke="black"/>
+<text x="450" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">20</text>
+<circle cx="500" cy="385" r="8" fill="none" stroke="black"/>
+<circle cx="530" cy="385" r="8" fill="none" stroke="black"/>
+<circle cx="560" cy="385" r="8" fill="none" stroke="black"/>
+<circle cx="590" cy="385" r="8" fill="none" stroke="black"/>
+<circle cx="620" cy="385" r="8" fill="none" stroke="black"/>
+
+<!-- Hizalama işaretleri -->
+<circle cx="50" cy="50" r="5" fill="black"/>
+<circle cx="750" cy="50" r="5" fill="black"/>
+<circle cx="50" cy="1050" r="5" fill="black"/>
+<circle cx="750" cy="1050" r="5" fill="black"/>
+
+<!-- Talimatlar -->
+<text x="400" y="1070" text-anchor="middle" font-family="Arial, sans-serif" font-size="10">
+    Doğru cevabı işaretlemek için ilgili baloncuğu tamamen doldurunuz.
+</text>
+<text x="400" y="1085" text-anchor="middle" font-family="Arial, sans-serif" font-size="10">
+    Birden fazla işaretleme yapmayınız ve işaretlerinizi düzgün yapınız.
+</text>
+</svg>
