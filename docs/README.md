@@ -59,3 +59,28 @@ python main.py -cli
 ## 📑 Lisans
 Bu proje eğitim amaçlıdır.  
 İstediğiniz gibi geliştirebilir ve özelleştirebilirsiniz.
+## 📸 Proje Görselleri
+
+### Giriş Ekranı
+![Giriş Ekranı](assets/images/Giris.png)
+
+### Öğrenci Analiz Sayfası
+![Öğrenci Analiz](assets/images/Ogrenci.png)
+
+### Öğrenci Form Oluşturma
+![Öğrenci Form Oluşturma](assets/images/Ogrenci_Form_Olustur.png)
+
+### Öğrenci Donut Grafiği
+![Öğrenci Donut Grafiği](assets/images/Ogrenci_Donut.png)
+
+### Öğrenci Hissiyat Analizi
+![Öğrenci Hissiyat Analizi](assets/images/Ogrenci_Hissiyat.png)
+
+### Detaylı Analiz
+![Detaylı Analiz](assets/images/Detayli_Analiz.png)
+
+### Rapor İzleme
+![Rapor İzleme](assets/images/Rapor_İzle.png)
+
+### Tüm İşlemleri Çalıştır
+![Tüm İşlemleri Çalıştır](assets/images/Tum_islemleri_calistir.png)
