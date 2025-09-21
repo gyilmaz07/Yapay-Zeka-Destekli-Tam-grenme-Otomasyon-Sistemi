@@ -1,34 +1,21 @@
-# 📘 Tam Öğrenme Otomasyon Sistemi
+# 🤖 Yapay Zeka Destekli Tam Öğrenme Otomasyon Sistemi
 
-Bu proje, öğrenci verilerini işleyen, optik formları okuyan, analiz eden ve rapor üreten **Python tabanlı bir otomasyon sistemidir**.  
-Tkinter tabanlı bir GUI (grafik arayüz) ile kullanıcı dostu bir deneyim sunar.
+Python tabanlı, öğrenci veri analizi ve otomatik raporlama sistemi. Tkinter GUI arayüzü ile kullanıcı dostu eğitim otomasyon çözümü.
 
----
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![GitHub stars](https://img.shields.io/github/stars/gyilmaz07/Yapay-Zeka-Destekli-Tam-grenme-Otomasyon-Sistemi)
+![GitHub forks](https://img.shields.io/github/forks/gyilmaz07/Yapay-Zeka-Destekli-Tam-grenme-Otomasyon-Sistemi)
+![GitHub issues](https://img.shields.io/github/issues/gyilmaz07/Yapay-Zeka-Destekli-Tam-grenme-Otomasyon-Sistemi)
 
-## 🚀 Özellikler
-- 📂 Öğrenci, kaynak ve hissiyat verilerini CSV üzerinden yönetme  
-- 📝 Öğrenciler için optik formlar oluşturma  
-- 🔍 Optik formları okuma ve değerlendirme  
-- 📊 Başarı analizi ve raporlama (HTML & JSON raporları)  
-- 🖼️ Tkinter tabanlı modern grafik arayüz  
-- 🖨️ Optik formları yazdırma desteği  
+## 🌟 Öne Çıkan Özellikler
 
----
-
-## 📂 Dizin Yapısı
-```
-├── main.py                # Ana uygulama
-├── core/                  # Çekirdek işlem modülleri
-├── gui/                   # Tkinter GUI ekranları
-├── data/                  # Örnek veri dosyaları
-├── utils/                 # Yardımcı fonksiyonlar
-├── templates/             # HTML şablonları
-├── static/                # CSS ve JS dosyaları
-├── requirements.txt       # Gerekli Python paketleri
-└── docs/README.md         # Proje belgeleri
-```
-
----
+- 📊 **Öğrenci Başarı Analizi**: Detaylı öğrenci performans takibi ve görselleştirme
+- 📝 **Optik Form İşleme**: Otomatik optik form oluşturma, okuma ve değerlendirme  
+- 🤖 **Yapay Zeka Destekli**: Akıllı veri analizi ve tahminleme algoritmaları
+- 📈 **Otomatik Raporlama**: HTML ve JSON formatında detaylı rapor oluşturma
+- 🖼️ **Modern Arayüz**: Tkinter tabanlı kullanıcı dostu grafik arayüz
+- 🖨️ **Yazdırma Desteği**: Optik formları ve raporları yazdırma özelliği
 
 ## ⚙️ Kurulum
 
@@ -86,3 +73,4 @@ Bu proje eğitim amaçlıdır.
 
 ### Tüm İşlemleri Çalıştır
 ![Tüm İşlemleri Çalıştır](Tum_islemleri_calistir.png)
+
