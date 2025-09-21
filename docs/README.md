@@ -61,26 +61,28 @@ Bu proje eğitim amaçlıdır.
 İstediğiniz gibi geliştirebilir ve özelleştirebilirsiniz.
 ## 📸 Proje Görselleri
 
+## 📸 Proje Görselleri
+
 ### Giriş Ekranı
-![Giriş Ekranı](assets/images/Giris.png)
+![Giriş Ekranı](Giris.png)
 
 ### Öğrenci Analiz Sayfası
-![Öğrenci Analiz](assets/images/Ogrenci.png)
+![Öğrenci Analiz](Ogrenci.png)
 
 ### Öğrenci Form Oluşturma
-![Öğrenci Form Oluşturma](assets/images/Ogrenci_Form_Olustur.png)
+![Öğrenci Form Oluşturma](Ogrenci_Form_Olustur.png)
 
 ### Öğrenci Donut Grafiği
-![Öğrenci Donut Grafiği](assets/images/Ogrenci_Donut.png)
+![Öğrenci Donut Grafiği](Ogrenci_Donut.png)
 
 ### Öğrenci Hissiyat Analizi
-![Öğrenci Hissiyat Analizi](assets/images/Ogrenci_Hissiyat.png)
+![Öğrenci Hissiyat Analizi](Ogrenci_Hissiyat.png)
 
 ### Detaylı Analiz
-![Detaylı Analiz](assets/images/Detayli_Analiz.png)
+![Detaylı Analiz](Detayli_Analiz.png)
 
 ### Rapor İzleme
-![Rapor İzleme](assets/images/Rapor_İzle.png)
+![Rapor İzleme](Rapor_İzle.png)
 
 ### Tüm İşlemleri Çalıştır
-![Tüm İşlemleri Çalıştır](assets/images/Tum_islemleri_calistir.png)
+![Tüm İşlemleri Çalıştır](Tum_islemleri_calistir.png)
