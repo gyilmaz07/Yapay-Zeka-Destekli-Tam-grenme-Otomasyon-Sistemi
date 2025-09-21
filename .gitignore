@@ -1,0 +1,12 @@
+# Sanal ortamlar
+.venv/
+venv/
+env/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Diğer
+*.log
+.DS_Store
